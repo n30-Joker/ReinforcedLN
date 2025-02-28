@@ -1,0 +1,8 @@
+gymnasium
+numpy
+pandas
+matplotlib
+sentence-transformers
+stable-baselines3
+gradio
+torch
